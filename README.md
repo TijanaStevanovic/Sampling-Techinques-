@@ -1,1 +1,1 @@
-# Sampling-Techinques-
+# Sampling-Techinques
